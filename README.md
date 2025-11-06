@@ -31,4 +31,14 @@ I am a passionate IT student at Computer Studies of Xavier University Ateneo De 
 - 🔭 I’m currently working on my final API project.
 - 🧑🏻‍💻 I'm working on creating our group's own Website with API and Database Integration for Software Engineering.
 
+## 🤓 Fun Facts
+- 🎮 As stated previously, I game. 24/7. Non-stop.
+- 💻 I've been Tech Literate at a young age. Maybe 8 years old or something.
+- ✏️ THIS MOTIVATION OF NOT DRAWING FOR A WHILE HAS B̵E̶E̵N̷ D̷͈̖̀̚R̸̠̮̰̈́̓̅ͅͅI̷͎̞͍͂̏̉̽̕V̷͇͉̯̳̉͌̽́Í̷̙͈̄̽N̴̬͊G̷̜͆ Ḿ̷̞͕̣̕̚͜E̴̡̙̱̜̋ C̴̨̢̹͉̞͔̟̭̙̩̳̠̟̼̱͈̩̔̏̂͑̈̑̋̐̈́͒̃̓͛́̈́̔͊̌̃̚͘Ŗ̴̨̬̦̻̟̣͇̤̳͔̹̹̳̀͗̓̈́͗͆̚̕̕A̴̢̢̼̗̞̗̦͍̞͙̙̞̱̪̥̲̫͔̲͗̂́̒̈̽͐ͅŹ̶̧̖̫̰̲̻͛̀͋Ý̸̡̡͎͇͔̲͔͈̯̻̤̠̲͚̻̠͉̣̬̼͆͛͗͗͌̓͒̓̈́̏̕͘͘͝͠
+
+
+
+- 🎤 I enjoy music very much, they make me feel lucid.
+- ✍🏻 I write.
+
 Thanks for stopping by!
